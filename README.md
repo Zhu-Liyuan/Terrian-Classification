@@ -1,10 +1,10 @@
 # Terrian-Classification  
 A software to run the basic algorithms in classification  of ground objects in satellite images.  
- Include:   
+ Including:   
  
-       1.Mahalanobis Distance  
+       1.Linear Regressor
        
-       2.Back Propagation Neural Network  
+       2.Simple Neural Networks
        
  The Application Sample:  
  
